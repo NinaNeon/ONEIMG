@@ -49,6 +49,15 @@ pnpm dev
 2. 选择预设的 CSS 样式模板
 3. 使用编辑器输入内容，实时预览生成的图片样式
 4. 点击导出按钮，生成 PNG 格式的图片并下载。
+5. 
+```
+unzip ONEIMG-main
+cd oneimg-modified
+pnpm install
+pnpm dev
+```
+
+
 
 ## 贡献
 我们欢迎各类贡献。如果你有新的功能或改进，欢迎提交 PR：

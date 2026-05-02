@@ -1,0 +1,7 @@
+export * from './tech-template'
+export * from './simple-template'
+export * from './page-template'
+export * from './serif-long-template'
+export * from './serif-long-wide-template'
+export * from './page-frame-template'
+export * from './proposal-template'
